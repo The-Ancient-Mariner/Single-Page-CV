@@ -14,7 +14,7 @@
 
 <h3 style="color: green; font-weight: 100;">Junior Fontend Developer</h3>
 
-<p>Billinghurst 1688 <br>Buenos Aires, CP=1425<br>4822-9768<br>nico@chucknoise.com</p>
+<p>Billinghurst 1688 <br>Buenos Aires, CP=1425<br>4822-9768<br>nico@nico.com</p>
 
 <h3 style="color: green; font-weight: 100;">Skills</h3>
 <p>HTML, CSS, JavaScript, Accessibily, Figma to Design, Responsive Web Design, Technical Writing, Presentation</p>
